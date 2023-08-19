@@ -8,7 +8,7 @@ Cross-view geo-localization is a critical task in various applications, such as 
 
 CVOGL is a dataset that comprises ground-view images, drone aerial-view images, and satellite-view images.
 
-The download link is  [CVOGL](https://drive.google.com/file/d/1dSzh3HjBT9dmsQaZdsTOpvxPQfXaKgs-/view?usp=sharing) 
+The download link is  [CVOGL](https://#) 
 
 # Train
 
