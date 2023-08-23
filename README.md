@@ -36,6 +36,7 @@ sh run_test_all.sh
   author={Yuxi Sun, Yunming Ye, Jian Kang, Ruben Fernandez-Beltran, Shanshan Feng, Xutao Li, Chuyao Luo, Puzhao Zhang, and Antonio Plaza},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   year={2023}
+  doi={10.1109/TGRS.2023.3307508}
 }
 ```
 
